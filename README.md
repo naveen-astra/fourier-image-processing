@@ -60,4 +60,7 @@ This project is for educational purposes.
 
 ## Author
 
-Naveen
+Naveen Babu 
+Kishore B
+Koushal Reddy
+Sai Charan
